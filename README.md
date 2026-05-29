@@ -1,5 +1,3 @@
----
-
 ตัวแปรสำหรับการจูนค่าใน Live Expressions
 
 ### Process Noise (เมทริกซ์ Q)
