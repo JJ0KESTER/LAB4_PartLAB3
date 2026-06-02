@@ -1,0 +1,7 @@
+../Core/Src/kalman.c:45:6:KalmanFilter_Init	1
+../Core/Src/kalman.c:60:6:KalmanFilter_Predict	6
+../Core/Src/kalman.c:100:6:KalmanFilter_Update	4
+../Core/Src/kalman.c:136:7:Kalman_GetPositionDeg	1
+../Core/Src/kalman.c:140:7:Kalman_GetVelocityDegS	1
+../Core/Src/kalman.c:144:7:Kalman_GetCurrentAmp	1
+../Core/Src/kalman.c:148:7:Kalman_GetDisturbanceNm	1
