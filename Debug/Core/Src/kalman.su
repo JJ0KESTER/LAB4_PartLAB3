@@ -1,0 +1,7 @@
+../Core/Src/kalman.c:45:6:KalmanFilter_Init	16	static
+../Core/Src/kalman.c:60:6:KalmanFilter_Predict	120	static
+../Core/Src/kalman.c:100:6:KalmanFilter_Update	56	static
+../Core/Src/kalman.c:136:7:Kalman_GetPositionDeg	16	static
+../Core/Src/kalman.c:140:7:Kalman_GetVelocityDegS	16	static
+../Core/Src/kalman.c:144:7:Kalman_GetCurrentAmp	16	static
+../Core/Src/kalman.c:148:7:Kalman_GetDisturbanceNm	16	static
